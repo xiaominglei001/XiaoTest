@@ -1,1 +1,5 @@
-{"opjson": {},"opmsg":"http://www.yiweiyun:8088.net","optag": true}
+{
+    "opjson": {},
+    "opmsg": "http://www.yiweiyun.net:8088",
+    "optag": true
+}
